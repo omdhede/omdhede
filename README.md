@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!MasterHead](http://omdhede.vercel.app/)
+[![MasterHead](https://omdhede.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fportrait.55b4825f.jpg&w=256&q=100)](http://omdhede.vercel.app/)
 
 <!--
 **omdhede/omdhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
