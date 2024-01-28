@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)](http://omdhede.vercel.app/)
 
-<h1 align="center" style="color: #4c7dd5">Hi 👋, I'm Om Dhede</h1>
+<h1>Hi 👋, I'm Om Dhede</h1>
 
 
 <!--
