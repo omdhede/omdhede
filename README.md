@@ -1,6 +1,7 @@
-### Hi there 👋
+[![MasterHead](https://okcredit-blog-images-prod.storage.googleapis.com/2021/04/Web-Developer1--1-.jpg)](http://omdhede.vercel.app/)
 
-[![MasterHead](https://omdhede.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fportrait.55b4825f.jpg&w=256&q=100)](http://omdhede.vercel.app/)
+<h1 align="center" style="color: #4c7dd5">Hi 👋, I'm Om Dhede</h1>
+
 
 <!--
 **omdhede/omdhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
