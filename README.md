@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)](http://omdhede.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Om Mangesh Dhede</h1>
-<h3 align="center">Currntly pursuing B. Tech from Vishwakarma Institute of Information Technology, Pune. I proudly hold the 4th rank in the prestigious "IEEE Hack-the-Metaverse 2023". </h3>
+<h3 align="center">Proficient MERN Stack Developer | AI & Data Science Specialist | Innovating Scalable Solutions in Cloud Environments</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omdhede&label=Profile%20views&color=0e75b6&style=flat" alt="omdhede" /> </p>
 
